@@ -37,18 +37,3 @@ Comecei na programação aos 12 anos, desenvolvendo um site com alguns amigos e 
 
 ![W3sleyCharles GitHub stats](https://github-readme-stats.vercel.app/api?username=W3sleyCharles&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W3sleyCharles&layout=compact&theme=dark)](https://github.com/W3sleyCharles/github-readme-stats)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
