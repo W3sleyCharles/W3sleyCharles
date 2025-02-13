@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Comecei na programação aos 12 anos, desenvolvendo um site com alguns amigos e escrevendo scripts em Lua para um jogo. Embora não tenha saído como esperado, ele me mostrou o caminho que eu gostaria de seguir. Anos depois, decidi tentar novamente e me encontrei nessa área. Sou apaixonado por criar, explorar soluções criativas e enfrentar desafios.
+Comecei na programação aos 12 anos, desenvolvendo um site com alguns amigos e escrevendo scripts em Lua para um jogo. Embora não tenha saído como esperado, ele me mostrou o caminho que eu gostaria de seguir. Anos depois, decidi tentar novamente e me encontrei nessa área. Sou gosto de criar, explorar soluções criativas e enfrentar desafios.
 
 ## Tecnologias
 
