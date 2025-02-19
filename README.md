@@ -6,17 +6,19 @@
 
  
 
-:computer: Sou desenvolvedor backend! (e melhorando no front para me tornar fullstack)
+:computer: Desenvolvedor backend
 
-:house_with_garden: Sou de Congonhas, Minas Gerais
+:house_with_garden: Congonhas, Minas Gerais
 
-:books: Estou cursando Análise e desenvolvimento de sistemas na Newton Paiva
+:man_student: Análise e desenvolvimento de sistemas, Newton Paiva.
 
  
 
 ## Sobre mim
 
-Comecei na programação aos 12 anos, desenvolvendo um site com alguns amigos e escrevendo scripts em Lua para um jogo. Embora não tenha saído como esperado, ele me mostrou o caminho que eu gostaria de seguir. Anos depois, decidi tentar novamente e me encontrei nessa área. Gosto de criar, explorar soluções criativas e enfrentar desafios.
+Desenvolvedor backend com um ano de experiência, especializado no desenvolvimento de soluções robustas e eficientes. Minha principal atuação foi na criação de um software de telemetria que monitora equipamentos em tempo real e envia feedbacks para um banco de dados, desenvolvido em Python. 
+
+Atualmente, estou aprofundando meus conhecimentos em Java e seus frameworks, além de explorar o desenvolvimento frontend por meio de pequenos projetos pessoais, com o objetivo de me tornar fullstack.
 
 ## Tecnologias
 
